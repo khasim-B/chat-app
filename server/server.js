@@ -58,4 +58,4 @@ await connectDB()
 
 
 // // exporting server for vercel
-// export default server
+export default server
